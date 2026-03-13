@@ -15,8 +15,8 @@ I am a passionate **NLP & Machine Learning Engineer** based in Tashkent, Uzbekis
 - Fine-tuning foundation models for localized language intelligence.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/ravshanjonahmadjonov](https://www.linkedin.com/in/ravshanjonahmadjonov)
-- **GitHub:** [@Symotix](https://github.com/Symotix)
+- **LinkedIn:** [linkedin.com/in/ravshanjonahmadjonov](https://www.linkedin.com/in/ravshanjon-ahmadjonov/)
+- **GitHub:** [@RavshanjonAhmadjonov](https://github.com/RavshanjonAhmadjonov)
 
 ---
 
